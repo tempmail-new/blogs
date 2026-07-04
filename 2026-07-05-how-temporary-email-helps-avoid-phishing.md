@@ -79,7 +79,7 @@ The biggest mistake is thinking disposable email makes a risky service safe. It 
 
 Another mistake is using a temporary inbox for accounts that may become important later. People do this with trial tools, then discover the original login or recovery mail is gone.
 
-The last mistake is keyword-driven behavior instead of judgment. Searching for terms like `temp mail`, `disposable email`, or `temporary email address` can help you find tools quickly, but the real decision is not which label you searched for. It is whether the signup deserves your long-term contact details.
+The last mistake is keyword-driven behavior instead of judgment. Searching for terms like `temp mail`, `disposable email`, or `temporary email address` can help you find tools quickly, but the real decision is whether the signup deserves your long-term contact details.
 
 ## The practical takeaway
 
