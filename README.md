@@ -36,6 +36,4 @@ Still, temporary email is not a replacement for good security habits. For import
 
 ## Credit
 
-This knowledge is shared by the **Tempmailso Team**.
-
-Learn more at [tempmailso.com](https://tempmailso.com).
+This knowledge is shared by the <a href="https://tempmailso.com">Tempmailso</a> Team.
