@@ -21,11 +21,11 @@ This does not make a bad website safe. It does make your exposure smaller, which
 
 ## What a temporary email address actually protects
 
-A temporary email address is best for short tasks where you only need one message or one verification link. In those moments, a free disposable email reduces how often your permanent address gets shared, resold, scraped, or added to low-quality mailing lists.
+A temporary email address is best for short tasks where you only need one message or one verification link. In those moments, a free disposable email or free temp email reduces how often your permanent address gets shared, resold, scraped, or added to low-quality mailing lists.
 
 That seperation matters more than it first seems. When your main inbox gets fewer low-trust emails, suspicious messages have less cover. Odd links stand out faster. Weird domain names feel more obvious. A fake security warning is easier to spot when it is not buried under promos you never wanted.
 
-A burner email also helps you test new services without creating a long-term trail back to your primary inbox.
+A burner email also helps you test new services without creating a long-term trail back to your primary inbox. For quick signups, that kind of temporary disposable mail is often enough.
 
 ## Where temp mail helps the most
 
